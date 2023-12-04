@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "newsapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mtfum/NewsAPI.git",
+      "state" : {
+        "revision" : "862a1d7a3a45a897677dbf2b6c58c3c62edd6c75",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
